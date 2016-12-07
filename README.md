@@ -6,6 +6,7 @@ For Image model -  Convolutional neural network, we use inception checkpoint pro
 
 This is work in progress, we want to extend this work to perform video description generation from input video frames.
 Team -
+
 1. Ankit Rai 
 2. Gizem Tabak
 3. Safa Messaoud 	                 
